@@ -24,6 +24,10 @@
 
 **hello-rails-backend** is a basic Rails Backend app which shows an API endpoint with random greeting messages.
 
+**hello-react-frontend** is a basic react frontend app which fetches the data from an API of rails backend app and shows random greeting messages.
+
+**Here is the link to hello react frontend app** (https://github.com/78fatemanazari/hello-react-front-end/pull/1)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
